@@ -1,0 +1,3 @@
+[submodule ".atros"]
+	path = .atros
+	url = git@github.com:kodkafa/atros-config-prerequisites.git
